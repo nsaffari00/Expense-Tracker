@@ -11,8 +11,9 @@ Features:
 - Summarize Expenses by Month: Groups and sums expenses by month.
 
 Roles & Tasks:
-- Christos: Made the add_expense() function that allows users to input expense details (category, amount, date). Made the View Worked on delete_expense() function, allowing users to and delete expenses. Worked on the filter_expenses function which allows user to filter espenses based of criteria. 
-- Nikan: Made the calculate_total() function that sums up all the expense amounts. Worked on delete_expense() function, allowing users to and delete expenses. Worked on the filter_expenses function which allows user to filter espenses based of criteria.
+- Christos: Made the add_expense() function that allows users to input expense details (category, amount, date). Made the view_expenses() fucnction that allows users to see their saved expenses. Worked on delete_expense() function, allowing users to and delete expenses. Worked on the filter_expenses function which allows user to filter espenses based of criteria. 
+
+- Nikan: Made the calculate_total() function that sums up all the expense amounts. Made the summarize_by_month() function that groups up and summarizes expenses by the month. Worked on delete_expense() function, allowing users to and delete expenses. Worked on the filter_expenses function which allows user to filter espenses based of criteria.
 
 Challenges:
 - Input Validation: Ensuring the user inputs valid amounts and dates was a key challenge. We handled it with error messages and validation checks to prevent crashes.
