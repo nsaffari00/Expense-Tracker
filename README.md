@@ -11,8 +11,8 @@ This project is an expense tracking system that helps users add, view, filter, a
 - **Summarize Expenses by Month**: Groups and sums expenses by month.
 
 ## Roles & Tasks:
-- **Chris**: Implemented the `add_expense()` function that allows users to input expense details (category, amount, date).  Worked on the `filter_expenses()` and `delete_expense()` functions, allowing users to filter and delete expenses based on criteria.
-- **Nikan**: Developed the `calculate_total()` function that sums up all the expense amounts.
+- **Chris**: Implemented the add_expense() function that allows users to input expense details (category, amount, date).  Worked on the `filter_expenses()` and `delete_expense()` functions, allowing users to filter and delete expenses based on criteria.
+- **Nikan**: Developed the calculate_total() function that sums up all the expense amounts.
 
 ## Challenges:
 - **Input Validation**: Ensuring the user inputs valid amounts and dates was a key challenge. We handled it with error messages and validation checks to prevent crashes.
