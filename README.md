@@ -20,6 +20,6 @@ Challenges:
 - Collaborative Coding: Merging changes from multiple branches was tricky, especially when we both worked on the same sections. We overcame this by regularly syncing with the main branch and communicating with eachother when we made any changes.
 
 Reflection:
-We enjoyed the process of collaborating on this project. While there were a few technical challenges, especially around merging code and coordinating our work on GitHub, it was rewarding to see how each member's contributions came together to form a complete project. We found that splitting tasks based on strengths made the process smoother and more efficient. However, sometimes we ran into merge conflicts, which required extra communication and careful management of branches.
+We enjoyed the process of collaborating on this project. While there were a few technical challenges, especially around merging code and coordinating our work on GitHub, we found that splitting tasks based on strengths made the process smoother and more efficient. However, sometimes we ran into merge conflicts, which required extra communication.
 
 Overall, this was a great learning experience, and we appreciate the opportunity to work together as a team.
