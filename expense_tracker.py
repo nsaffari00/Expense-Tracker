@@ -1,3 +1,8 @@
+
+
+
+
+
 # Function to add an expense
 def add_expense(expenses, category, amount, date):
     try:
